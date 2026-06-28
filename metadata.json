@@ -1,0 +1,6 @@
+{
+  "name": "البحث عن الأرخص",
+  "description": "تطبيق يساعدك في العثور على أرخص السلع في المتاجر المحلية والعالمية التي تشحن إلى بلدك مع مقارنة أسعار شاملة وتحليل SWOT وتنبيهات التخفيضات بمساعدة الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
